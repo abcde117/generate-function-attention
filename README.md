@@ -344,31 +344,10 @@ Built-in KFold cross-validation support for quick benchmarking across dataset sp
 - **Training Loop**: `ult.py` (lines 56-120 for ModelTrainer)
 - **Utilities**: `uni_func.py` (RMSNorm, RoPE, SwiGLU)
 
-## Citation
 
-If you use this codebase in your research, please cite:
-
-```bibtex
-@software{gfa2024,
-  title={Generalized Functional Approximation for Efficient Transformer Attention},
-  author={Author Name},
-  year={2024},
-  url={https://github.com/your-repo/gfa1-2}
-}
-```
 
 ## License
 
 This project is provided as-is for research purposes.
 
-## Contributing
 
-Contributions and improvements are welcome! Please:
-1. Create a feature branch
-2. Add tests for new components
-3. Update documentation
-4. Submit a pull request
-
-## Contact
-
-For questions or discussions, please open an issue or contact the maintainers.
